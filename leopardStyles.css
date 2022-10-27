@@ -18,6 +18,7 @@ nav button {
     height: 30px;
     
 }
+img:hover {filter: saturate(180%);}
 
 .homebttn {
     text-decoration: none;
